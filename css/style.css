@@ -3,8 +3,10 @@ p {
     background-color: beige;
     font-size: 22px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 body {
     background-color: red;
+    padding: 60px;
 }
