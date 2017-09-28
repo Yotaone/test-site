@@ -1,6 +1,6 @@
 p {
     color: white;
-    background-color: beige;
+    background-color: blue;
     font-size: 22px;
     text-transform: uppercase;
     text-align: center;
@@ -9,4 +9,3 @@ p {
 body {
     background-color: red;
     padding: 60px;
-}
