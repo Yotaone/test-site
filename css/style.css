@@ -1,6 +1,8 @@
 p {
     color: white;
     background-color: beige;
+    font-size: 22px;
+    text-transform: uppercase;
 }
 
 body {
