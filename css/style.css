@@ -1,4 +1,8 @@
 p {
-    color: red;
+    color: white;
     background-color: beige;
+}
+
+body {
+    background-color: red;
 }
